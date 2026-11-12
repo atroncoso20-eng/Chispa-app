@@ -1,1 +1,11 @@
 
+{
+  "name": "Chispa +18",
+  "short_name": "Chispa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#e11d48",
+  "description": "App de citas para mayores de 18 años",
+  "icons": []
+}
